@@ -1,3 +1,7 @@
+#BlockE
+
+You can find our project at: 
+
 ## Inspiration
 
 Limits have been shattered with advancements in augmented reality. These limits have been shattered in every industry, especially entertainment and education. Block-E aims to change the way we play and learn through blocks. 
